@@ -11,9 +11,9 @@ git config --global user.email "seu e-mail"
 ```
 
 
-git init = gerenciamento da pasta
+git init = gerenciamento da arquivo
 
-git add = add pasta
+git add = add arquivo  
 
 git status = verificar status
 
