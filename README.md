@@ -11,4 +11,10 @@ git config --global user.email "seu e-mail"
 ```
 
 
+git init = gerenciamento da pasta
 
+git add = add pasta
+
+git status = verificar status
+
+git commit -m " ( colocar frase de atualizacao )
