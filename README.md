@@ -10,7 +10,6 @@ git config --global user.email "seu e-mail"
 
 ```
 
-
 git init = gerenciamento da arquivo
 
 git add = add arquivo  
@@ -29,3 +28,7 @@ IMPORTANTE: sempre que atualizar o arquivo é necessário:
 GIT ADD
 GIT COMMIT -M
 GIT PUSH ORIGIN MAIN
+
+´´´
+testes
+´´´
