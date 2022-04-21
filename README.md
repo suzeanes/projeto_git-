@@ -18,3 +18,8 @@ git add = add arquivo
 git status = verificar status
 
 git commit -m " ( colocar frase de atualizacao )
+git branch -m = alterar tipo do arquivo
+
+git fetch = importar alterações
+
+git push = exportar alterações ( git push origin main)
