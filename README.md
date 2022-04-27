@@ -34,6 +34,18 @@ testes
 ´´´
 git remote add origin
 
+git testando tudo novamente
+
+faz alteracao / salva
+
+acessa o Guit Bash como MAIN e digita
+
+git pull origin main ( objetivo: "trazer" o arquivo atualizado para sua máquina local
+git status ( objetivo: visualizar o Status)
+git restore README.md ( restaurar o arquivo para sua máquina - lembrar de add o nome do arquivo corretamente )
+git pull origin main ( novamente )
+
+
 #comandos basico para enviar/trazer codigo entre remoto e local
 ````
 git push origin main # envia do local para o remoto
