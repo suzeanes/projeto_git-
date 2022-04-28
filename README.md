@@ -10,7 +10,7 @@ git config --global user.email "seu e-mail"
 
 ```
 
-git init = gerenciamento da arquivo
+git init = gerenciamento da arquivo / cria um repositorio
 
 git add = add arquivo  
 
@@ -34,25 +34,28 @@ testes
 ´´´
 git remote add origin
 
-teste 2222
-
-git testando tudo novamente
-
-faz alteracao / salva
-
-acessa o Guit Bash como MAIN e digita
-
-git pull origin main ( objetivo: "trazer" o arquivo atualizado para sua máquina local
-git status ( objetivo: visualizar o Status)
-git restore README.md ( restaurar o arquivo para sua máquina - lembrar de add o nome do arquivo corretamente )
-git pull origin main ( novamente )
-
-
 #comandos basico para enviar/trazer codigo entre remoto e local
 ````
 git push origin main # envia do local para o remoto
 git pull origin main # traz do remoto para o local
 ````
 
-git pulh origin main#
+git push origin main#
 
+
+
+# FONTES
+## Fontes
+### FONTES
+[Markdown] https://docs.github.com/pt/account-and-profile
+
+
+
+## Documentacao de Linguaguem: [Markdown] https://github.com/Docs/
+
+![Git](imagem/git.jpeg)
+
+##Paginas
+
+[Scrum (scrum.md)
+[kamban](kamban.md)
