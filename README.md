@@ -46,16 +46,17 @@ git push origin main#
 
 # FONTES
 ## Fontes
-### FONTES
-[Markdown] https://docs.github.com/pt/account-and-profile
+### FONTES [Markdown](https://docs.github.com/pt/account-and-profile)
 
 
 
-## Documentacao de Linguaguem: [Markdown] https://github.com/Docs/
+## Documentacao de Linguaguem:[Markdown](https://github.com/Docs/)
 
 ![Git](imagem/git.jpeg)
 
 ##Paginas
 
-[Scrum (scrum.md)
+[Scrum](scrum.md)
 [kamban](kamban.md)
+
+Texto Legal
