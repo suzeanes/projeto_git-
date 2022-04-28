@@ -34,6 +34,8 @@ testes
 ´´´
 git remote add origin
 
+Texto vindo do github
+
 #comandos basico para enviar/trazer codigo entre remoto e local
 ````
 git push origin main # envia do local para o remoto
