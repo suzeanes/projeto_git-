@@ -61,3 +61,4 @@ git push origin main#
 
 [Scrum (scrum.md)
 [kamban](kamban.md)
+texto legal 2 vindo do gitbub on line
